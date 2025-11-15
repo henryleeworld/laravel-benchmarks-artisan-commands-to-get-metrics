@@ -1,4 +1,4 @@
-# Laravel 11 性能測試 Artisan 指令以取得指標
+# Laravel 12 性能測試 Artisan 指令以取得指標
 
 引入 christophrumpel 的 artisan-benchmark 套件來擴增性能測試 Artisan 指令以取得指標，能讓瀏覽器（代表使用者）驗證指令碼是否的確來自信任的來源。
 
@@ -24,5 +24,5 @@ $ php artisan benchmark "{指令}"
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/4Mn9Cxe.png)
+![](https://i.imgur.com/rFaLGY2.png)
 > 執行 Artisan 指令性能測試
